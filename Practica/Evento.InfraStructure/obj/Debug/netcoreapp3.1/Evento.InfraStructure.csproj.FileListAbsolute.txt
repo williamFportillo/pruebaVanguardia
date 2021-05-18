@@ -1,0 +1,12 @@
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\bin\Debug\netcoreapp3.1\Evento.Core.dll
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\obj\Debug\netcoreapp3.1\Evento.InfraStructure.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\obj\Debug\netcoreapp3.1\Evento.InfraStructure.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\obj\Debug\netcoreapp3.1\Evento.InfraStructure.AssemblyInfo.cs
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\obj\Debug\netcoreapp3.1\Evento.InfraStructure.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\bin\Debug\netcoreapp3.1\Evento.InfraStructure.deps.json
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\bin\Debug\netcoreapp3.1\Evento.InfraStructure.dll
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\bin\Debug\netcoreapp3.1\Evento.InfraStructure.pdb
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\bin\Debug\netcoreapp3.1\Evento.Core.pdb
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\obj\Debug\netcoreapp3.1\Evento.InfraStructure.csproj.CopyComplete
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\obj\Debug\netcoreapp3.1\Evento.InfraStructure.dll
+C:\Users\willi\source\repos\Practica\Evento.InfraStructure\obj\Debug\netcoreapp3.1\Evento.InfraStructure.pdb
